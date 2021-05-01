@@ -1,0 +1,12 @@
+C:\310030\VIVEKSINGH\Azure\Code\code-starter-kits-master\bowling-ball\BowlingBall\bin\Debug\BowlingBall.dll
+C:\310030\VIVEKSINGH\Azure\Code\code-starter-kits-master\bowling-ball\BowlingBall\bin\Debug\BowlingBall.pdb
+C:\310030\VIVEKSINGH\Azure\Code\code-starter-kits-master\bowling-ball\BowlingBall\obj\Debug\BowlingBall.csprojAssemblyReference.cache
+C:\310030\VIVEKSINGH\Azure\Code\code-starter-kits-master\bowling-ball\BowlingBall\obj\Debug\BowlingBall.csproj.CoreCompileInputs.cache
+C:\310030\VIVEKSINGH\Azure\Code\code-starter-kits-master\bowling-ball\BowlingBall\obj\Debug\BowlingBall.dll
+C:\310030\VIVEKSINGH\Azure\Code\code-starter-kits-master\bowling-ball\BowlingBall\obj\Debug\BowlingBall.pdb
+C:\310030\GITREPO\Upcoming Release\ST1b\PROD\CMM_PIRB_ISSUE\18thMAR\bowling-ball_VIVEKSINGH_1stMAY2021\bowling-ball\BowlingBall\bin\Debug\BowlingBall.dll
+C:\310030\GITREPO\Upcoming Release\ST1b\PROD\CMM_PIRB_ISSUE\18thMAR\bowling-ball_VIVEKSINGH_1stMAY2021\bowling-ball\BowlingBall\bin\Debug\BowlingBall.pdb
+C:\310030\GITREPO\Upcoming Release\ST1b\PROD\CMM_PIRB_ISSUE\18thMAR\bowling-ball_VIVEKSINGH_1stMAY2021\bowling-ball\BowlingBall\obj\Debug\BowlingBall.csprojAssemblyReference.cache
+C:\310030\GITREPO\Upcoming Release\ST1b\PROD\CMM_PIRB_ISSUE\18thMAR\bowling-ball_VIVEKSINGH_1stMAY2021\bowling-ball\BowlingBall\obj\Debug\BowlingBall.csproj.CoreCompileInputs.cache
+C:\310030\GITREPO\Upcoming Release\ST1b\PROD\CMM_PIRB_ISSUE\18thMAR\bowling-ball_VIVEKSINGH_1stMAY2021\bowling-ball\BowlingBall\obj\Debug\BowlingBall.dll
+C:\310030\GITREPO\Upcoming Release\ST1b\PROD\CMM_PIRB_ISSUE\18thMAR\bowling-ball_VIVEKSINGH_1stMAY2021\bowling-ball\BowlingBall\obj\Debug\BowlingBall.pdb

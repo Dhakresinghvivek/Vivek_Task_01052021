@@ -1,0 +1,32 @@
+C:\310030\VIVEKSINGH\Azure\Code\code-starter-kits-master\bowling-ball\BowlingBall.Tests\bin\Debug\BowlingBall.Tests.dll
+C:\310030\VIVEKSINGH\Azure\Code\code-starter-kits-master\bowling-ball\BowlingBall.Tests\bin\Debug\BowlingBall.Tests.pdb
+C:\310030\VIVEKSINGH\Azure\Code\code-starter-kits-master\bowling-ball\BowlingBall.Tests\bin\Debug\BowlingBall.dll
+C:\310030\VIVEKSINGH\Azure\Code\code-starter-kits-master\bowling-ball\BowlingBall.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\310030\VIVEKSINGH\Azure\Code\code-starter-kits-master\bowling-ball\BowlingBall.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\310030\VIVEKSINGH\Azure\Code\code-starter-kits-master\bowling-ball\BowlingBall.Tests\bin\Debug\BowlingBall.pdb
+C:\310030\VIVEKSINGH\Azure\Code\code-starter-kits-master\bowling-ball\BowlingBall.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\310030\VIVEKSINGH\Azure\Code\code-starter-kits-master\bowling-ball\BowlingBall.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\310030\VIVEKSINGH\Azure\Code\code-starter-kits-master\bowling-ball\BowlingBall.Tests\obj\Debug\BowlingBall.Tests.csprojAssemblyReference.cache
+C:\310030\VIVEKSINGH\Azure\Code\code-starter-kits-master\bowling-ball\BowlingBall.Tests\obj\Debug\BowlingBall.Tests.csproj.CoreCompileInputs.cache
+C:\310030\VIVEKSINGH\Azure\Code\code-starter-kits-master\bowling-ball\BowlingBall.Tests\obj\Debug\BowlingBall.Tests.csproj.CopyComplete
+C:\310030\VIVEKSINGH\Azure\Code\code-starter-kits-master\bowling-ball\BowlingBall.Tests\obj\Debug\BowlingBall.Tests.dll
+C:\310030\VIVEKSINGH\Azure\Code\code-starter-kits-master\bowling-ball\BowlingBall.Tests\obj\Debug\BowlingBall.Tests.pdb
+C:\310030\VIVEKSINGH\Azure\Code\code-starter-kits-master\bowling-ball\BowlingBall.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\310030\VIVEKSINGH\Azure\Code\code-starter-kits-master\bowling-ball\BowlingBall.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\310030\VIVEKSINGH\Azure\Code\code-starter-kits-master\bowling-ball\BowlingBall.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\310030\GITREPO\Upcoming Release\ST1b\PROD\CMM_PIRB_ISSUE\18thMAR\bowling-ball_VIVEKSINGH_1stMAY2021\bowling-ball\BowlingBall.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\310030\GITREPO\Upcoming Release\ST1b\PROD\CMM_PIRB_ISSUE\18thMAR\bowling-ball_VIVEKSINGH_1stMAY2021\bowling-ball\BowlingBall.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\310030\GITREPO\Upcoming Release\ST1b\PROD\CMM_PIRB_ISSUE\18thMAR\bowling-ball_VIVEKSINGH_1stMAY2021\bowling-ball\BowlingBall.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\310030\GITREPO\Upcoming Release\ST1b\PROD\CMM_PIRB_ISSUE\18thMAR\bowling-ball_VIVEKSINGH_1stMAY2021\bowling-ball\BowlingBall.Tests\bin\Debug\BowlingBall.Tests.dll
+C:\310030\GITREPO\Upcoming Release\ST1b\PROD\CMM_PIRB_ISSUE\18thMAR\bowling-ball_VIVEKSINGH_1stMAY2021\bowling-ball\BowlingBall.Tests\bin\Debug\BowlingBall.Tests.pdb
+C:\310030\GITREPO\Upcoming Release\ST1b\PROD\CMM_PIRB_ISSUE\18thMAR\bowling-ball_VIVEKSINGH_1stMAY2021\bowling-ball\BowlingBall.Tests\bin\Debug\BowlingBall.dll
+C:\310030\GITREPO\Upcoming Release\ST1b\PROD\CMM_PIRB_ISSUE\18thMAR\bowling-ball_VIVEKSINGH_1stMAY2021\bowling-ball\BowlingBall.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\310030\GITREPO\Upcoming Release\ST1b\PROD\CMM_PIRB_ISSUE\18thMAR\bowling-ball_VIVEKSINGH_1stMAY2021\bowling-ball\BowlingBall.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\310030\GITREPO\Upcoming Release\ST1b\PROD\CMM_PIRB_ISSUE\18thMAR\bowling-ball_VIVEKSINGH_1stMAY2021\bowling-ball\BowlingBall.Tests\bin\Debug\BowlingBall.pdb
+C:\310030\GITREPO\Upcoming Release\ST1b\PROD\CMM_PIRB_ISSUE\18thMAR\bowling-ball_VIVEKSINGH_1stMAY2021\bowling-ball\BowlingBall.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\310030\GITREPO\Upcoming Release\ST1b\PROD\CMM_PIRB_ISSUE\18thMAR\bowling-ball_VIVEKSINGH_1stMAY2021\bowling-ball\BowlingBall.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\310030\GITREPO\Upcoming Release\ST1b\PROD\CMM_PIRB_ISSUE\18thMAR\bowling-ball_VIVEKSINGH_1stMAY2021\bowling-ball\BowlingBall.Tests\obj\Debug\BowlingBall.Tests.csprojAssemblyReference.cache
+C:\310030\GITREPO\Upcoming Release\ST1b\PROD\CMM_PIRB_ISSUE\18thMAR\bowling-ball_VIVEKSINGH_1stMAY2021\bowling-ball\BowlingBall.Tests\obj\Debug\BowlingBall.Tests.csproj.CoreCompileInputs.cache
+C:\310030\GITREPO\Upcoming Release\ST1b\PROD\CMM_PIRB_ISSUE\18thMAR\bowling-ball_VIVEKSINGH_1stMAY2021\bowling-ball\BowlingBall.Tests\obj\Debug\BowlingBall.Tests.csproj.CopyComplete
+C:\310030\GITREPO\Upcoming Release\ST1b\PROD\CMM_PIRB_ISSUE\18thMAR\bowling-ball_VIVEKSINGH_1stMAY2021\bowling-ball\BowlingBall.Tests\obj\Debug\BowlingBall.Tests.dll
+C:\310030\GITREPO\Upcoming Release\ST1b\PROD\CMM_PIRB_ISSUE\18thMAR\bowling-ball_VIVEKSINGH_1stMAY2021\bowling-ball\BowlingBall.Tests\obj\Debug\BowlingBall.Tests.pdb
