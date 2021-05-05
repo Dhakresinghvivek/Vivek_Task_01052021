@@ -1,0 +1,112 @@
+interface Game 
+	void PinRoll(int pins)
+	int GetScore()
+	
+interface IStrike
+		bool isStrike(FrameIndex)
+		int StrikeScore(FrameIndex)
+interface ISpare
+		bool isspare(FrameIndex)
+		int SpareScore(FrameIndex)
+interface IFrame
+		int FrameScore(FrameIndex)
+
+public class BowlingGame : Game , IStrike , ISpare , IFrame
+	
+	list<int> rolls = new list<int>();
+	Pinroll()
+	{
+		rolls.add(pin);
+	}
+	
+	isStrike(FrameIndex)
+	{
+			return 10 + _rolls[frameIndex + 1] + _rolls[frameIndex + 2];
+	}
+	int StrikeScore(FrameIndex)
+	{
+		return _rolls[frameIndex] + _rolls[frameIndex + 1];
+	}
+	isspare(FrameIndex)
+	{
+		 return (_rolls[frameIndex] + _rolls[frameIndex + 1]) == 10;
+	}
+	SpareScore(FrameIndex)
+	{
+		 return 10 + _rolls[frameIndex + 2];
+	}
+	FrameScore(FrameIndex)
+	{
+		return _rolls[frameIndex] + _rolls[frameIndex + 1];
+	}
+	
+	//Get Score
+	int GetScore()
+	{
+		// Returns the final score of the game.
+            int FrameIndex = 0;
+            for (int Frame = 0; Frame < 10; Frame++)
+            {
+                if (_rolls.Count - 2 == FrameIndex && _rolls[FrameIndex - 1] == 10 && _rolls[FrameIndex] != 10)
+                    break;
+                else if (FrameIndex % 2 == 0 && _rolls.Count - 1 == FrameIndex && _rolls[FrameIndex] == 10)
+                {
+                    _score = _score + _rolls[FrameIndex];
+                    Roll(10);
+                    _score += _rolls[_rolls.Count - 1];
+                    Roll(10);
+                    _score += _rolls[_rolls.Count - 1];
+                    break;
+                }
+                else if (FrameIndex % 2 == 0 && _rolls.Count - 2 == FrameIndex && _rolls[FrameIndex] == 10)
+                {
+                    Roll(10);
+                    Roll(10);
+                }
+                else if (FrameIndex % 2 == 0 && _rolls.Count - 1 == FrameIndex && _rolls[FrameIndex - 1] == 10)
+                {
+                    _score = _score + _rolls[FrameIndex];
+                    Roll(1);
+                    _score += _rolls[_rolls.Count - 1];
+                    break;
+                }
+                else if (FrameIndex % 2 != 0 && _rolls.Count - 1 == FrameIndex && _rolls[FrameIndex - 1] == 10)
+                {
+                    _score += _score + _rolls[FrameIndex];
+                    Roll(1);
+                    _score += _rolls[_rolls.Count - 1];
+                    break;
+                }
+                else if (FrameIndex + 1 == _rolls.Count || FrameIndex == _rolls.Count)
+                    break;
+
+                //If strike then get next 2 roll's points as bonus...
+                if (IsStrike(FrameIndex))
+                {
+                    _score += StrikeScore(FrameIndex);
+                    FrameIndex++;
+                }
+                else
+                {
+                    //If Spare then get next frame's first roll's points as bonus...
+                    if (IsSpare(FrameIndex))
+                    {
+                        _score += SpareScore(FrameIndex);
+                    }
+                    else
+                    {
+                        _score += FrameScore(FrameIndex);
+                    }
+                    FrameIndex += 2;
+                }
+            }
+            return _score;
+	}
+	
+	
+	
+	
+	
+	
+	
+	
